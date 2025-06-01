@@ -25,7 +25,7 @@ This project demonstrates how to deploy a **scalable and highly available web ap
 ---
 ## Architecture Diagram
 
-![Architecture](../Diagram.png)
+![Architecture](../Diagram.jpg)
 
 ## 🛠 Step-by-Step Guide Using AWS Console
 
