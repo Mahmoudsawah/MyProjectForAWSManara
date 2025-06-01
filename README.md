@@ -114,7 +114,4 @@ This project demonstrates how to deploy a **scalable and highly available web ap
 
 ---
 
-## 📷 Architecture Diagram
-
-![Architecture Diagram](./AWS_Architect_for _Scalable_Web_Application_with_ALB_and_Auto_Scaling.jpg)
 
