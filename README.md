@@ -23,6 +23,9 @@ This project demonstrates how to deploy a **scalable and highly available web ap
 - Monitor infrastructure and configure alerting with CloudWatch and SNS.
 
 ---
+## Architecture Diagram
+
+![Architecture](../Diagram.png)
 
 ## 🛠 Step-by-Step Guide Using AWS Console
 
